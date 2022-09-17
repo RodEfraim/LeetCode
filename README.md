@@ -16,4 +16,7 @@ LeetCode
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./MaximumSubarray.java)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./MergeSortedArrayOptimized.java)|Easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./BalancedBinaryTree/BinraryTreeInorderTraversal.java)|Easy|
-
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](./BalancedBinaryTree/MaximumDepthOfBinaryTree.java)|Medium|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](./BalancedBinaryTree/BalancedBinaryTreeOptimized.java)|Medium|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./BestTimeToBuyAndSellStock.java)|Medium|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](./ValidPalindrome.java)|Medium|
