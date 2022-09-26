@@ -20,6 +20,7 @@ LeetCode
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](./BalancedBinaryTree/BalancedBinaryTreeOptimized.java)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./BestTimeToBuyAndSellStock.java)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](./ValidPalindrome.java)|Easy|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./LinkedListCycle/LinkedListCycle.java)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](./ContainsDuplicate.java)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./ValidAnagramOptimized.java)|Easy|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Java](./LongestPalindrome.java)|Easy|
