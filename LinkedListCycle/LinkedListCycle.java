@@ -3,6 +3,16 @@ package LinkedListCycle;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Given head, the head of a linked list, determine if the linked list has a cycle in it.
+ *
+ * There is a cycle in a linked list if there is some node in the list that can be
+ * reached again by continuously following the next pointer. Internally, pos is used to
+ * denote the index of the node that tail's next pointer is connected to. Note that pos is
+ * not passed as a parameter.
+ *
+ * Return true if there is a cycle in the linked list. Otherwise, return false.
+ */
 public class LinkedListCycle {
 
     public static boolean hasCycle(ListNode head) {
@@ -10,10 +20,9 @@ public class LinkedListCycle {
         // Use a hash map to keep track if the node has been visited already.
         Map<ListNode, Boolean> nodeMap = new HashMap<>();
         boolean hasCycle = false;
-        boolean notNull = true;
         ListNode tracker = head;
 
-        while(notNull){
+        while(true){
 
             // If tracker is equal to null this means you have reached the end of the linked list.
             if(tracker == null)
@@ -40,6 +49,7 @@ public class LinkedListCycle {
         l1.next = new ListNode(2);
         l1.next.next = new ListNode(0);
         l1.next.next.next = new ListNode(-4);
+        // This will make the LinkedList have a cycle.
         l1.next.next.next.next = l1.next;
 
         final long startTime = System.currentTimeMillis();
