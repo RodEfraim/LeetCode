@@ -21,6 +21,7 @@ LeetCode
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./BestTimeToBuyAndSellStock.java)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](./ValidPalindrome.java)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./LinkedListCycle/LinkedListCycle.java)|Easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](./ReverseLinkedList)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](./ContainsDuplicate.java)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./ValidAnagramOptimized.java)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](./FirstBadVersion)|Easy|
