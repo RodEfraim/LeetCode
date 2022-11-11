@@ -23,5 +23,6 @@ LeetCode
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./LinkedListCycle/LinkedListCycle.java)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](./ContainsDuplicate.java)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./ValidAnagramOptimized.java)|Easy|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](./FirstBadVersion)|Easy|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Java](./LongestPalindrome.java)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/) | [Java](./BinarySearch.java)|Easy|
