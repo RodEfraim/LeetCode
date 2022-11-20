@@ -1,0 +1,33 @@
+class Solution {
+    public int maxArea(int[] height) {
+        
+        System.out.println("Number of lines: " + height.length);
+        int maxArea = 0;
+        
+        
+        for(int count = 0; count < height.length; count++){
+            //System.out.println("Outerloop: " + height[count]);      
+            for(int count2 = 0; count2 < height.length; count2++){
+                if(count != count2){
+                    int xLength = Math.abs(count - count2);
+                    //System.out.println("|" + count + " - " + count2 + "| = " +  xLength);
+                    int yLength = 0;
+    
+                    // Pick the smallest of the y lengths since thats the water limit.
+                    if(height[count] <= height[count2]){
+                        yLength = height[count];
+                    }
+                    else
+                        yLength = height[count2];
+                        
+                    int area = xLength * yLength;
+                    //System.out.println("area: " + area);
+                    if(area > maxArea)
+                        maxArea = area;  
+                }
+            }
+        }
+        
+        return maxArea;
+    }
+}
