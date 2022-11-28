@@ -12,7 +12,7 @@ import static java.lang.Math.abs;
  */
 public class ContainerWithMostWater {
 
-    public static int maxArea(int[] height) {
+    private static int maxArea(int[] height) {
         int lPointer = 0;
         int rPointer = height.length - 1;
 
@@ -21,7 +21,7 @@ public class ContainerWithMostWater {
         return comparePointers(height, lPointer, rPointer);
     }
 
-    public static int getSmallestVal(int lPointerVal, int rPointerVal){
+    private static int getSmallestVal(int lPointerVal, int rPointerVal){
         if(lPointerVal < rPointerVal)
             return lPointerVal;
         else
@@ -35,7 +35,7 @@ public class ContainerWithMostWater {
      * @param rPointer The pointer that starts right of the array.
      * @return boolean true if left pointer val is less than or equal to the right pointer val. False otherwise.
      */
-    public static boolean getSmallestValDeep(int[] height, int lPointer, int rPointer){
+    private static boolean getSmallestValDeep(int[] height, int lPointer, int rPointer){
 
         if(lPointer == rPointer)
             return true;
