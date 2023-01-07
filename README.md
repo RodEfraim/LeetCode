@@ -15,11 +15,13 @@ LeetCode
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](./MergeTwoSortedLists)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./SearchInsertPosition.java)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./MaximumSubarray.java)|Medium|
+|58|[Length Of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Java](./LengthOfLastWord)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./MergeSortedArrayOptimized.java)|Easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./BalancedBinaryTree/BinraryTreeInorderTraversal.java)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/) | [Java](./SameTree)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](./SymmetricTree)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](./BalancedBinaryTree/MaximumDepthOfBinaryTree.java)|Easy|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Java](./ConvertSortedArrayToBinarySearchTree)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](./BalancedBinaryTree/BalancedBinaryTreeOptimized.java)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./BestTimeToBuyAndSellStock.java)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](./ValidPalindrome.java)|Easy|
