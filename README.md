@@ -11,7 +11,7 @@ LeetCode
 | 3   |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](./LongestSubstringWithoutRepeatingCharacters.java)|Medium|
 | 9   |[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](./PalindromeNumberOptimized.java)|Easy|
 | 11  |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Java](./ContainerWithMostWater)|Medium|
-| 14  |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Java](./ContainerWithMostWater)|Medium|
+| 14  |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Java](./LongestCommonPrefix)|Easy|
 | 20  |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](./ValidParentheses.java)|Easy|
 | 21  |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](./MergeTwoSortedLists)|Easy|
 | 35  |[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./SearchInsertPosition.java)|Easy|
