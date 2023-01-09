@@ -32,20 +32,17 @@ public class RemoveDuplicatesFromSortedArray {
                 previousInt = count;
         }
 
-        System.out.println("~~~~~~ Original array with 101 place holders ~~~~~~");
-        for(int i : nums){
-            System.out.print(i + ", ");
-        }
-
-        System.out.println("\n~~~~~~ Output array ~~~~~~");
+        System.out.println("\n~~~~~~ Original array with 101 place holders ~~~~~~");
         int count = 0;
         for(int i : nums){
+            System.out.print(i + ", ");
             if(i != 101){
                 outputArray[count] = i;
                 count++;
             }
         }
 
+        System.out.println("\n~~~~~~ Output array ~~~~~~");
         int outputCount = 0;
         for(Integer i : outputArray){
             System.out.print(i + ", ");
@@ -58,7 +55,6 @@ public class RemoveDuplicatesFromSortedArray {
         System.out.println("\noutputCount: " + outputCount);
         return outputCount;
     }
-
 
     public static void main(String[] args) {
         int[] input1 = {0,0,1,1,1,2,2,3,3,4};
