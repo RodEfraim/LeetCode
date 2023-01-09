@@ -15,6 +15,8 @@ LeetCode
 | 20  |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](./ValidParentheses.java)|Easy|
 | 21  |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](./MergeTwoSortedLists)|Easy|
 | 26  |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Java](./RemoveDuplicatesFromSortedArray)|Easy|
+| 27  |[Remove Element](https://leetcode.com/problems/remove-element/description/) | [Java](./RemoveElement)|Easy|
+| 28  |[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [Java](./FindTheIndexOfTheFirstOccurrenceInAString)|Medium|
 | 35  |[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./SearchInsertPosition.java)|Easy|
 | 53  |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./MaximumSubarray.java)|Medium|
 | 58  |[Length Of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Java](./LengthOfLastWord)|Easy|
