@@ -20,6 +20,8 @@ LeetCode
 | 35  |[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./SearchInsertPosition.java)|Easy|
 | 53  |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./MaximumSubarray.java)|Medium|
 | 58  |[Length Of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Java](./LengthOfLastWord)|Easy|
+| 66  |[Plus One](https://leetcode.com/problems/plus-one/) | [Java](./PlusOne)|Easy|
+| 67  |[Add Binary](https://leetcode.com/problems/add-binary/) | [Java](./AddBinary)|Easy|
 | 88  |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./MergeSortedArrayOptimized.java)|Easy|
 | 94  |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./BalancedBinaryTree/BinraryTreeInorderTraversal.java)|Easy|
 | 100 |[Same Tree](https://leetcode.com/problems/same-tree/) | [Java](./SameTree)|Easy|
