@@ -1,17 +1,20 @@
 package RemoveNthNodeFromEndOfList;
 
+/**
+ * Given the head of a linked list, remove the nth node from the end of the list and return its head.
+ */
 public class RemoveNthNodeFromEndOfList {
 
     /**
-     *
-     * @param head
+     * Removes the Nth node away from the last node of the linked list.
+     * @param head: First node from the linked list.
      * @param n: The nth node from the end of the list
-     * @return
+     * @return First node from the modified linked list.
      */
     public static ListNode removeNthNode(ListNode head, int n){
 
         ListNode beginning = head;
-        // Reach the end of the loop
+        // Grabs the length of the linked list by reaching the end of the loop.
         int linkedListLength = getLinkedListLength(head);
         int targetIndex = linkedListLength - n;
 
@@ -37,7 +40,7 @@ public class RemoveNthNodeFromEndOfList {
 
     /**
      * Gets the length of singly-linked list by iterating through the entire list until it reaches null.
-     * @param head
+     * @param head: First node from the linked list.
      * @return The length of the linked list.
      */
     public static int getLinkedListLength(ListNode head){
