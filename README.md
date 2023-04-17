@@ -34,6 +34,8 @@ LeetCode
 | 125 |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](./ValidPalindrome.java)|Easy|
 | 133 |[Clone Graph](https://leetcode.com/problems/clone-graph/) | [Java](./CloneGraph)|Medium|
 | 141 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./LinkedListCycle/LinkedListCycle.java)|Easy|
+| 160 |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](./IntersectionOfTwoLinkedLists)|Easy|
+| 203 |[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Java](./RemoveLinkedListElements)|Easy|
 | 206 |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](./ReverseLinkedList)|Easy|
 | 217 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](./ContainsDuplicate.java)|Easy|
 | 242 |[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./ValidAnagramOptimized.java)|Easy|
